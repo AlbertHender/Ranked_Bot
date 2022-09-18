@@ -11,7 +11,7 @@ Note: Your rank does not transfer to other servers that may have this bot added.
 # Installation
 - Download this repository
 - Craete a discord bot in the discord developer portal and get the token
-- Create an .env file and put the token inside
+- Create an config.env file and put the token inside
 - run the script
 - done!
 
